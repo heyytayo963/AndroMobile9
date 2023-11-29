@@ -1,7 +1,13 @@
 # Tugas_Android_2
 
 # Demo Aplikasi
-https://github.com/DimasF3009/Tugas_Android_2/assets/115356128/c554b1e7-0aee-4132-a2c2-40d7416a5656
+
+
+
+https://github.com/heyytayo963/AndroMobile9/assets/115687740/90764e87-6c68-49c5-9679-79500045488d
+
+
+
 
 
 
